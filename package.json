@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "description": "A port of Made of Code theme from TextMate",
-  "repository": "https://github.com/fusion94/made-of-code",
+  "repository": "https://github.com/fusion94/MadeOfCode",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
