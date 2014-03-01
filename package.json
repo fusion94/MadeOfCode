@@ -1,0 +1,12 @@
+{
+  "name": "made-of-code",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A port of Made of Code theme from TextMate",
+  "repository": "https://github.com/fusion94/made-of-code",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
